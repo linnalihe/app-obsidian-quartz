@@ -1,0 +1,10 @@
+.git
+.gitignore
+node_modules
+quartz/node_modules
+quartz/public
+.env
+DEPLOY.md
+BUILD_PLAN.md
+.DS_Store
+*.log

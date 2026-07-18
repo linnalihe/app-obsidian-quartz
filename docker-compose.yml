@@ -1,0 +1,34 @@
+services:
+  kb:
+    build:
+      context: .
+      args:
+        BASE_URL: ${BASE_URL}
+    image: public-knowledge-kb:latest
+    container_name: public-knowledge-kb
+    restart: unless-stopped
+    networks:
+      - proxy
+    # NO "ports:" section — Traefik reaches us over the proxy network only.
+    labels:
+      - "traefik.enable=true"
+      # ROUTER: match the public host, terminate TLS via the existing 'letsencrypt' resolver
+      - "traefik.http.routers.kb.rule=Host(`${DOMAIN}`)"
+      - "traefik.http.routers.kb.entrypoints=websecure"
+      - "traefik.http.routers.kb.tls=true"
+      - "traefik.http.routers.kb.tls.certresolver=letsencrypt"
+      # SERVICE: tell Traefik which internal port the container serves on
+      - "traefik.http.services.kb.loadbalancer.server.port=8080"
+      # Belt-and-suspenders: pin which docker network Traefik should use to reach us
+      - "traefik.docker.network=proxy"
+      # SECURITY HEADERS middleware (safe for a static, read-only public site)
+      - "traefik.http.middlewares.kb-sec.headers.stsSeconds=31536000"
+      - "traefik.http.middlewares.kb-sec.headers.stsIncludeSubdomains=true"
+      - "traefik.http.middlewares.kb-sec.headers.contentTypeNosniff=true"
+      - "traefik.http.middlewares.kb-sec.headers.browserXssFilter=true"
+      - "traefik.http.middlewares.kb-sec.headers.referrerPolicy=strict-origin-when-cross-origin"
+      - "traefik.http.routers.kb.middlewares=kb-sec"
+
+networks:
+  proxy:
+    external: true   # created & owned by the operator's Traefik stack; we attach to it
