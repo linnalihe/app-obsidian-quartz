@@ -111,3 +111,8 @@ Daily practice beats weekend cramming. Motor memory is built through repetition 
 Chinese character mastery is a multi-year project — but it's also a deeply satisfying one. Each character is a small piece of visual culture with roots in pictography, history, and usage across thousands of years of written language.
 
 The learners who sustain practice are the ones who develop genuine curiosity about the characters themselves, not just the goal of "being fluent." That curiosity is worth cultivating early.
+
+## Related
+
+- [[Best Ways to Learn Chinese in 2026 - Apps Plans Tips|Best Ways to Learn Chinese in 2026]]
+- [[Spaced Repetition Software What It Is and How to Use It to Learn Chinese|Spaced Repetition Software for Chinese]]

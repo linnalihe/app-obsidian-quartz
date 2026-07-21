@@ -100,3 +100,10 @@ A motivated non-technical founder with a good product idea can:
 - Get stuck on complex technical problems that require a developer
 
 The ceiling is higher than most people expect. But there is a ceiling, and being honest about it upfront saves months of frustration.
+
+## Related
+
+- [[10 Complex SaaS Apps You Can Build with Vibe Coding in 2026|10 Complex SaaS Apps to Build with Vibe Coding]]
+- [[How to Build a SaaS Quickly in 2026 - AI Agents Boilerplates and Vibe Coding|How to Build a SaaS Quickly in 2026]]
+- [[Claude Code vs Cursor What to Choose in 2026|Claude Code vs Cursor: What to Choose]]
+- [[Indie Hacker Guide How to Build a Profitable Side Project 2026|Indie Hacker Guide: Build a Profitable Side Project]]

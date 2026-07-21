@@ -99,3 +99,10 @@ Fixing your monetization is almost always higher ROI than acquiring more users:
 | Win-back email campaign | +5–12% recovered revenue |
 
 Build the product, then ruthlessly optimize monetization before scaling acquisition.
+
+## Related
+
+- [[The State of Subscription Apps 2026 - RevenueCat|The State of Subscription Apps 2026]]
+- [[How to Make Money From an App in 2026 Real Numbers|How to Make Money From an App (Real Numbers)]]
+- [[Indie Hacker Guide How to Build a Profitable Side Project 2026|Indie Hacker Guide: Build a Profitable Side Project]]
+- [[The Indie Hacker Toolkit for 2026 AI Automation and the Rise of the Solo Empire|The Indie Hacker Toolkit for 2026]]

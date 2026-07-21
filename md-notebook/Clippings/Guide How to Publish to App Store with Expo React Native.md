@@ -133,3 +133,10 @@ Before full release, test with real users via TestFlight:
 - Invite testers by email or a public link
 
 EAS Submit can push to TestFlight instead of production: `eas submit --platform ios --latest` and choose TestFlight when prompted.
+
+## Related
+
+- [[Building Fully Native iOS Apps with Expo EAS|Building Native iOS Apps with Expo EAS]]
+- [[React Native Monorepo with Turborepo and Expo A Platform Team Guide for 2026|React Native Monorepo with Turborepo and Expo]]
+- [[How to Build a pnpm Monorepo the Right Way|How to Build a pnpm Monorepo]]
+- [[The State of Subscription Apps 2026 - RevenueCat|The State of Subscription Apps 2026]]
