@@ -161,3 +161,9 @@ Add RLS tests to your test suite using `pg_tap` or test via your application's A
 2. An admin can perform privileged actions; a member cannot
 3. An unauthenticated request receives no data (or explicitly public data)
 4. Service role can bypass RLS for admin operations
+
+## Related
+
+- [[How to Build a SaaS Quickly in 2026 - AI Agents Boilerplates and Vibe Coding|How to Build a SaaS Quickly in 2026]]
+- [[10 Complex SaaS Apps You Can Build with Vibe Coding in 2026|10 Complex SaaS Apps to Build with Vibe Coding]]
+- [[The Indie Hacker Toolkit for 2026 AI Automation and the Rise of the Solo Empire|The Indie Hacker Toolkit for 2026]]

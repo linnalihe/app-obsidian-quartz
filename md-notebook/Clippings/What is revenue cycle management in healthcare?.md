@@ -85,3 +85,8 @@ At athenahealth, we strive to deliver solutions that can help reduce administrat
 Reach out to one of our healthcare IT specialists to learn more about how healthcare practices of all kinds are leveraging the [athenaOne® all-in-one solution](https://www.athenahealth.com/solutions/athenaone) for [revenue cycle management](https://www.athenahealth.com/solutions/practice-management), [electronic health records](https://www.athenahealth.com/solutions/electronic-health-records), and [patient engagement](https://www.athenahealth.com/solutions/patient-engagement) to deliver exceptional, patient-centric care while achieving business success.
 
 RCMdelayed revenue cyclepractice managementfinancial stability
+## Related
+
+- [[What Is Revenue Cycle Management (RCM)?|What Is Revenue Cycle Management? (AAPC)]]
+- [[New AI billing codes spark concern across nursing|New AI Billing Codes Spark Concern Across Nursing]]
+- [[The hospital profitability divide 10 things to know - Becker's Hospital Review  Healthcare News & Analysis|Hospital Profitability Divide: 10 Things to Know]]

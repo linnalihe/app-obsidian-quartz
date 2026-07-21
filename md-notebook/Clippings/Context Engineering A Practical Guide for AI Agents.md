@@ -91,3 +91,10 @@ Unlike prompts (where A/B testing is straightforward), context quality is hard t
 - Average context tokens per completed task
 
 The best context engineering teams treat this like infrastructure work — iterative, instrumented, and always tied to outcome metrics.
+
+## Related
+
+- [[Context Engineering The Next Frontier Beyond Prompt Engineering|Context Engineering: The Next Frontier (deepset)]]
+- [[Context Engineering vs Prompt Engineering for AI Agents|Context Engineering vs Prompt Engineering (Firecrawl)]]
+- [[Claude Code vs Cursor What to Choose in 2026|Claude Code vs Cursor: What to Choose]]
+- [[How to Build a SaaS Quickly in 2026 - AI Agents Boilerplates and Vibe Coding|How to Build a SaaS Quickly in 2026]]

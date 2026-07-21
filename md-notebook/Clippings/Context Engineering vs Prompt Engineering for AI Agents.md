@@ -101,3 +101,9 @@ The agents that will dominate in 2026 aren't the ones running the largest models
 - Keep static and dynamic context separated and clean
 
 The models are already good enough. The context pipeline is where the performance gap lives.
+
+## Related
+
+- [[Context Engineering A Practical Guide for AI Agents|Context Engineering: A Practical Guide (Sourcegraph)]]
+- [[Context Engineering The Next Frontier Beyond Prompt Engineering|Context Engineering: The Next Frontier (deepset)]]
+- [[Claude Code vs Cursor What to Choose in 2026|Claude Code vs Cursor: What to Choose]]

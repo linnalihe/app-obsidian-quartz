@@ -83,3 +83,8 @@ They're not a substitute for speaking with humans — pronunciation feedback fro
 | Near-native fluency | 3,000+ hours | With immersion |
 
 Chinese takes roughly twice as long as French or Spanish for English speakers (FSI rating: Category IV). Plan accordingly.
+
+## Related
+
+- [[Spaced Repetition Software What It Is and How to Use It to Learn Chinese|Spaced Repetition Software for Chinese]]
+- [[Chinese Writing Practice How to Master Chinese Characters in 2026|Chinese Writing Practice: Mastering Characters]]

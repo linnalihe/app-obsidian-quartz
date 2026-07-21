@@ -83,3 +83,8 @@ Realistic expectations for HSK vocabulary acquisition with consistent SRS:
 - HSK 5 (2,500 words): 18–24 months
 
 The compounding effect is real: adding 10 new words/day for a year is 3,650 words with dramatically less review time than any other method. The hard part is the first 60 days before momentum builds.
+
+## Related
+
+- [[Best Ways to Learn Chinese in 2026 - Apps Plans Tips|Best Ways to Learn Chinese in 2026]]
+- [[Chinese Writing Practice How to Master Chinese Characters in 2026|Chinese Writing Practice: Mastering Characters]]

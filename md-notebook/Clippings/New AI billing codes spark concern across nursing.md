@@ -40,3 +40,9 @@ The AMA is accepting [stakeholder comments](https://www.ama-assn.org/about/cpt-e
 Separately, CMS is accepting public comments on its [proposed 2027 payment rule](https://www.beckershospitalreview.com/finance/cms-pitches-medicare-physician-pay-cut-aco-overhaul-in-2027-8-things-to-know/) through Sept. 14, giving nurses and other healthcare professionals an opportunity to weigh in on how AI services may be reimbursed in the future.
 
 At the Becker's 11th Annual IT + Revenue Cycle Conference: The Future of AI & Digital Health, taking place September 14–17 in Chicago, healthcare executives and digital leaders from across the country will come together to explore how AI, interoperability, cybersecurity, and revenue cycle innovation are transforming care delivery, strengthening financial performance, and driving the next era of digital health. [Apply for complimentary registration now.](https://conferences.beckershospitalreview.com/hit_rcm_2026/complimentary-participation?utm_source=BHRwebsite&utm_medium=website&utm_campaign=FallHITBHRarticle)
+## Related
+
+- [[What Is Revenue Cycle Management (RCM)?|What Is Revenue Cycle Management?]]
+- [[What is revenue cycle management in healthcare?|What Is RCM in Healthcare?]]
+- [[The hospital profitability divide 10 things to know - Becker's Hospital Review  Healthcare News & Analysis|Hospital Profitability Divide: 10 Things to Know]]
+- [['Hospitals without an outpatient footprint will struggle' Health systems race to build ASC networks|Hospitals Race to Build ASC Networks]]

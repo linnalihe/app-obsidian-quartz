@@ -144,3 +144,9 @@ Get bulletproof, from preservice to payments with Revenue Cycle Solutions from t
 ### Explore AAPC's suite of Audit Solutions
 
 From Audit Services and Risk Adjustment Reviews to Documentation Improvement Services, find out how you can fortify vulnerabilities in your compliance program and resolve key risk areas.
+## Related
+
+- [[What is revenue cycle management in healthcare?|What Is RCM in Healthcare? (athenahealth)]]
+- [[New AI billing codes spark concern across nursing|New AI Billing Codes Spark Concern Across Nursing]]
+- [[The hospital profitability divide 10 things to know - Becker's Hospital Review  Healthcare News & Analysis|Hospital Profitability Divide: 10 Things to Know]]
+- [[272 telehealth companies to know|272 Telehealth Companies to Know]]

@@ -87,3 +87,10 @@ Businesses have higher willingness to pay, lower churn, and post-2024 rules allo
 A mediocre paywall on a beloved app outperforms the perfect paywall on an app nobody uses. The 2026 advantage: building costs dropped to near-zero, so you can empirically find audience-value fit before investing heavily in monetization optimization.
 
 Ship, track retention, then add the paywall.
+
+## Related
+
+- [[The State of Subscription Apps 2026 - RevenueCat|The State of Subscription Apps 2026]]
+- [[How to Make More Money as a Mobile App Developer in 2026|How to Make More Money as a Mobile App Developer]]
+- [[Indie Hacker Guide How to Build a Profitable Side Project 2026|Indie Hacker Guide: Build a Profitable Side Project]]
+- [[The Indie Hacker Toolkit for 2026 AI Automation and the Rise of the Solo Empire|The Indie Hacker Toolkit for 2026]]

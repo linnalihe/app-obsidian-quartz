@@ -60,3 +60,10 @@ Cursor at $20/month is predictable. Claude Code bills per token, which means a h
 ## The Verdict
 
 Use **Cursor** as your daily driver. Use **Claude Code** for complex, multi-step tasks or automation work you run from the command line. They're complementary, not competing — many developers run both.
+
+## Related
+
+- [[Context Engineering A Practical Guide for AI Agents|Context Engineering: A Practical Guide for AI Agents]]
+- [[Context Engineering vs Prompt Engineering for AI Agents|Context Engineering vs Prompt Engineering]]
+- [[How to Build a SaaS Quickly in 2026 - AI Agents Boilerplates and Vibe Coding|How to Build a SaaS Quickly in 2026]]
+- [[Vibe Coding for SaaS Builders What Non-Technical Founders Need to Know in 2026|Vibe Coding for SaaS Builders]]

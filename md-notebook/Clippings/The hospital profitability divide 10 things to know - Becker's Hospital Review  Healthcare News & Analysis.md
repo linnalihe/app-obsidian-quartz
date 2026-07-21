@@ -36,3 +36,9 @@ Here are 10 things to know.
 10\. HCA’s 12% margin underscores the for-profit gap. The Nashville, Tenn.-based HCA system [posted](https://www.beckershospitalreview.com/finance/hca-posts-12-operating-margin-in-q1-8-things-to-know/) a 12% operating margin in the first quarter of 2026, generating $2.29 billion in operating income — down slightly from $2.33 billion in the same quarter last year. The 0.7 percentage point year-over-year decline was modest relative to the steeper drops posted across the nonprofit sector, and HCA’s margin remains more than 10 percentage points above the national average tracked by Kaufman Hall.
 
 At the Becker's 11th Annual IT + Revenue Cycle Conference: The Future of AI & Digital Health, taking place September 14–17 in Chicago, healthcare executives and digital leaders from across the country will come together to explore how AI, interoperability, cybersecurity, and revenue cycle innovation are transforming care delivery, strengthening financial performance, and driving the next era of digital health. [Apply for complimentary registration now.](https://conferences.beckershospitalreview.com/hit_rcm_2026/complimentary-participation?utm_source=BHRwebsite&utm_medium=website&utm_campaign=FallHITBHRarticle)
+## Related
+
+- [[What Is Revenue Cycle Management (RCM)?|What Is Revenue Cycle Management?]]
+- [[New AI billing codes spark concern across nursing|New AI Billing Codes Spark Concern Across Nursing]]
+- [['Hospitals without an outpatient footprint will struggle' Health systems race to build ASC networks|Hospitals Race to Build ASC Networks]]
+- [[272 telehealth companies to know|272 Telehealth Companies to Know]]

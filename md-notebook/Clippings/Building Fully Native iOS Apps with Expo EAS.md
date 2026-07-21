@@ -155,3 +155,9 @@ EAS Submit connects to App Store Connect and uploads the binary directly. You st
 ## The Key Insight
 
 EAS treats build configuration as code (`eas.json`, workflow YAML files). This means your entire build and distribution process is reproducible, version-controlled, and not dependent on any one developer's machine setup. For teams or solo developers releasing regularly, this is a significant quality-of-life improvement over manual Xcode Archive workflows.
+
+## Related
+
+- [[Guide How to Publish to App Store with Expo React Native|Guide: Publish to App Store with Expo]]
+- [[React Native Monorepo with Turborepo and Expo A Platform Team Guide for 2026|React Native Monorepo with Turborepo and Expo]]
+- [[How to Build a pnpm Monorepo the Right Way|How to Build a pnpm Monorepo]]

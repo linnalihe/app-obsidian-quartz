@@ -128,3 +128,8 @@ Now `pnpm install` builds all shared packages in topological order automatically
 ## Why Not Bun?
 
 Bun's isolated installs provide dependency isolation but still symlink workspace packages to their source directory — no `injected` equivalent exists. Peer dependencies resolve from the *package's* directory, not the consumer's. Until Bun adds an injected mode, pnpm remains the right choice for monorepos.
+
+## Related
+
+- [[React Native Monorepo with Turborepo and Expo A Platform Team Guide for 2026|React Native Monorepo with Turborepo and Expo]]
+- [[Building Fully Native iOS Apps with Expo EAS|Building Native iOS Apps with Expo EAS]]

@@ -101,3 +101,9 @@ For developers building AI features:
 5. **Test with adversarial inputs** — what happens when the retrieved context is wrong or irrelevant?
 
 The models available today are already capable enough for most production use cases. The gap between demos and reliable products is almost always a context engineering gap.
+
+## Related
+
+- [[Context Engineering A Practical Guide for AI Agents|Context Engineering: A Practical Guide (Sourcegraph)]]
+- [[Context Engineering vs Prompt Engineering for AI Agents|Context Engineering vs Prompt Engineering (Firecrawl)]]
+- [[Claude Code vs Cursor What to Choose in 2026|Claude Code vs Cursor: What to Choose]]

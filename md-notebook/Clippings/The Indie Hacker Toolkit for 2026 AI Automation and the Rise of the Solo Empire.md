@@ -93,3 +93,11 @@ Revenue = (traffic × conversion × price) × retention. AI improves each variab
 In 2019, building a solo SaaS to $10k MRR required exceptional execution. In 2026, it requires good judgment and consistent effort. The floor rose dramatically.
 
 The question isn't "can I build this?" anymore. It's "should I build this, and who wants it enough to pay?"
+
+## Related
+
+- [[Indie Hacker Guide How to Build a Profitable Side Project 2026|Indie Hacker Guide: Build a Profitable Side Project]]
+- [[Vibe Coding for SaaS Builders What Non-Technical Founders Need to Know in 2026|Vibe Coding for SaaS Builders]]
+- [[How to Build a SaaS Quickly in 2026 - AI Agents Boilerplates and Vibe Coding|How to Build a SaaS Quickly in 2026]]
+- [[Supabase RLS Best Practices Production Patterns for Secure Multi-Tenant Apps|Supabase RLS Best Practices]]
+- [[Claude Code vs Cursor What to Choose in 2026|Claude Code vs Cursor: What to Choose]]

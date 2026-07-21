@@ -183,3 +183,10 @@ A monorepo adds real complexity. It's worth it when:
 - Build performance is a bottleneck
 
 For a solo developer building one app, a single Expo project with no workspace overhead is faster to iterate on. Add the monorepo structure when you genuinely need the shared packages.
+
+## Related
+
+- [[How to Build a pnpm Monorepo the Right Way|How to Build a pnpm Monorepo]]
+- [[Guide How to Publish to App Store with Expo React Native|Guide: Publish to App Store with Expo]]
+- [[Building Fully Native iOS Apps with Expo EAS|Building Native iOS Apps with Expo EAS]]
+- [[How to Build a SaaS Quickly in 2026 - AI Agents Boilerplates and Vibe Coding|How to Build a SaaS Quickly in 2026]]
